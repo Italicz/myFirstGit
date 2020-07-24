@@ -1,0 +1,19 @@
+{
+  "name": "myfirstgit",
+  "version": "1.0.0",
+  "description": "First project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Italicz/myFirstGit.git"
+  },
+  "author": "James Angier",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Italicz/myFirstGit/issues"
+  },
+  "homepage": "https://github.com/Italicz/myFirstGit#readme"
+}

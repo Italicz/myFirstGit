@@ -1,7 +1,5 @@
 # Software Frameworks my First Git
 
-One Paragraph of project description goes here
-
 ## Description
 
 This is the second week of labs for Software Frameworks demonstrating the ability to use GitHub and Git.
